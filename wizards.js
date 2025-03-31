@@ -4,4 +4,4 @@ const wizards = [
     {name:"diák1",magicWand:"pálca1",house:"hugrabug"},
     {name:"diák2",magicWand:"pálca2",house:"hugrabug"},
 ]
-export default movies
+export default wizards
